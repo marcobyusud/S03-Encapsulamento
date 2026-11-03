@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\S03 Encapsulamento\bin\Debug\net10.0\Fracoes.exe
+C:\Users\Usuario\Desktop\S03 Encapsulamento\bin\Debug\net10.0\Fracoes.deps.json
+C:\Users\Usuario\Desktop\S03 Encapsulamento\bin\Debug\net10.0\Fracoes.runtimeconfig.json
+C:\Users\Usuario\Desktop\S03 Encapsulamento\bin\Debug\net10.0\Fracoes.dll
+C:\Users\Usuario\Desktop\S03 Encapsulamento\bin\Debug\net10.0\Fracoes.pdb
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.dll
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\refint\Fracoes.dll
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.pdb
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\Fracoes.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\S03 Encapsulamento\obj\Debug\net10.0\ref\Fracoes.dll
